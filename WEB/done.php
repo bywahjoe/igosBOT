@@ -8,7 +8,7 @@
 
 		$d1=$_POST['timer'];
 		$d2=$_POST['song'];
-		$d3=$_POST['song'];
+		$d3=$_POST['speed'];
 		// Create connection
         $conn = new mysqli($servername, $userID, $pass, $database);
         // Check connection

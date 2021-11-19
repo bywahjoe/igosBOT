@@ -1,5 +1,6 @@
+.logo{margin-left: auto;margin-right: auto;text-align: center;display: block;width:75px}
 .back{
-	background-color: #32325d;
+	background-color: #000654;
 	margin: auto;
 	width: 50%;
 	margin-top: 5%;
@@ -8,6 +9,17 @@
 	
 	min-height: 200px;
 }
+
+/*Page Info */
+.fun{
+	color: white;
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 15px;
+	font-size: 20px;
+}
+
+
 /*Page Set*/
 .playtitle{font-size: 40px;color: white;}
 .titleset{
@@ -40,6 +52,14 @@ color: white;
 	padding-right: 15px;
 }
 /*Page About*/
+.desc{
+	color: white;
+	text-align: justify;
+	padding-left: 15 px;
+	padding-right: 15 px;
+		margin-left: 15 px;
+	margin-right: 15 px;
+}
 .ap{
 	color: white;
 	padding-left: 5px;
@@ -50,6 +70,7 @@ color: white;
 	width: 50%;text-align: justify;
 	padding-left: 15px;
 	padding-right: 15px;
+	vertical-align: top;
 }
 .atd img{  display: block;
     margin: 0 auto;}
@@ -84,6 +105,8 @@ color: white;
 	border-radius: 10px;
 	margin-bottom: 15px;
 	border-color: #e14eca;
+	padding-left: 10px;
+	padding-right: 10px;
 
 }
 .btn{
@@ -91,8 +114,8 @@ color: white;
 	margin :auto;
 	width: 80%;
 	height: 45px;
-	color: white;
-	background-color: #2dce89;
+	color: black;
+	background-color: #ffee00;
 	font-size: 20px;
 	font-weight: bold;
 	 
@@ -101,8 +124,8 @@ color: white;
 	border-color: #e14eca;
 }
 .btn:hover{background-color: #e14eca;}
-.btncenter{text-align: center;padding-bottom: 20px;}
-body{background-color: #5e72e4;}
+.btncenter{text-align: center;padding-bottom: 20px;padding-left: 25px;padding-right: 25px;}
+body{background-color: #0066e2;}
 h1{text-align: center;
 	color: #ffffff; 
 	font-family: Arial, Helvetica, sans-serif;
